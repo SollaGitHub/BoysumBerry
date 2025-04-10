@@ -1,2 +1,2 @@
-# MemorExpiration
-MemorExpiration | 2025-6 Project
+# BoysumBerry
+A Script made for a game named 'Baddies'
